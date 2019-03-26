@@ -231,7 +231,7 @@ input[type=submit] {
     padding: 30px;
     margin: 0 0 40px;
     background: #ffffff;
-    border: 1px solid #dddddd;
+    border: 1px solid #918d8d;
     text-align: center;
   }
    
@@ -251,6 +251,16 @@ input[type=submit] {
     margin-right: 25px;
   }
 
+  .work {
+    position: relative;
+    width: 100%;
+    overflow: auto;
+    text-align: center;
+  }
+
+  .work > h2 {
+    text-align: center;
+  }
 
   nav {
     float: none;
